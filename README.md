@@ -1,6 +1,6 @@
 # C-to-MIPS-Assembly
 
-
+## C++ code
 ```c++
 #include<iostream>
 using namespace std;
